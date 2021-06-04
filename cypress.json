@@ -1,0 +1,6 @@
+{
+  "retries": 2,
+  "testFiles": ["**/*.ts"],
+  "screenshotsFolder": "cypress/screenshots",
+  "chromeWebSecurity": false
+}
